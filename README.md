@@ -1,4 +1,4 @@
-# Project 5 - **Udsing API**
+# Project 5 - **Using API**
 
 Submitted by: **Samuel Ntadom**
 
